@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/fayo/aam_driverless_ws/devel/include",
+        "/opt/ros/melodic/include",
+        "/home/fayo/aam_driverless_ws/src/aam_control/boundary_detector/include",
+        "/home/fayo/aam_driverless_ws/src/aam_perception/darknet_ros/darknet_ros/include",
+        "/home/fayo/aam_driverless_ws/src/aam_perception/lidar_cone_detection/include",
+        "/home/fayo/aam_driverless_ws/src/aam_control/line_detector/include",
+        "/home/fayo/aam_driverless_ws/src/aam_estimation/robot_pose_ekf-master/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
